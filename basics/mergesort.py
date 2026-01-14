@@ -58,7 +58,6 @@ if __name__ == "__main__":
             quit(1)
 
     print("value_list:", value_list)
-    print("array:", value_list)
 
     sorted_list = mergesort(value_list)
     print(sorted_list)
